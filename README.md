@@ -80,4 +80,4 @@ This project was completed as part of a job simulation at PwC Switzerland, hoste
 
 This project demonstrated the ability to leverage Power BI for effective data visualization and analysis, providing valuable insights to clients. The skills and knowledge gained through this simulation are directly applicable to real-world scenarios, enhancing both technical and analytical capabilities.
 
-###Thank You 😃
+### Thank You 😃
