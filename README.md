@@ -19,7 +19,7 @@ As part of a job simulation with PwC Switzerland in August 2024, hosted on Forag
 
 ## **Key Performance Indicators (KPIs)**
 
-A. ## **Telecom Client – PhoneNow**
+ ## A. **Telecom Client – PhoneNow**
 
 1. ### **Customer Satisfaction:**
     - **Churn Rate:** Highlighted at 27%, indicating the proportion of customers leaving the service.
