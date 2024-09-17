@@ -17,9 +17,9 @@ As part of a job simulation with PwC Switzerland in August 2024, hosted on Forag
     - Analyze gender-related KPIs to assess disparities in hiring, promotion, and turnover.
     - Propose solutions to address the gender imbalance at the executive management level.
 
-# **Key Performance Indicators (KPIs)**
+## **Key Performance Indicators (KPIs)**
 
-## **Telecom Client – PhoneNow**
+A. ## **Telecom Client – PhoneNow**
 
 1. ### **Customer Satisfaction:**
     - **Churn Rate:** Highlighted at 27%, indicating the proportion of customers leaving the service.
@@ -36,7 +36,7 @@ As part of a job simulation with PwC Switzerland in August 2024, hosted on Forag
     - **Support Tickets:** Analysis of admin (3632) and tech tickets (2955) offers a snapshot of agent efficiency in resolving issues.
     - **Tech Support as a Service:** Contributing to 17% of overall services, the performance of technical support teams was critical in reducing churn.
 
-## **HR Data KPIs**
+B. ## **HR Data KPIs**
 
 1. ### **Hiring:**
     - The HR dashboard highlighted disparities in gender distribution among new hires. The focus was placed on improving gender balance in leadership and executive roles.
@@ -50,7 +50,7 @@ As part of a job simulation with PwC Switzerland in August 2024, hosted on Forag
 4. ### **Turnover:**
     - Analysis of gender-specific turnover rates offered a clearer picture of workforce retention challenges. Specific focus was given to women leaving at higher rates in executive roles.
 
-## **Diversity and Inclusion Metrics**
+C. ## **Diversity and Inclusion Metrics**
 
 1. ### **Gender Balance:**
     - **Executive Gender Balance:** A significant disparity was noted with 59% male and 41% female representation in executive roles.
