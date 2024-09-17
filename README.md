@@ -17,7 +17,7 @@ As part of a job simulation with PwC Switzerland in August 2024, hosted on Forag
     - Analyze gender-related KPIs to assess disparities in hiring, promotion, and turnover.
     - Propose solutions to address the gender imbalance at the executive management level.
 
-## **Key Performance Indicators (KPIs)**
+# **Key Performance Indicators (KPIs)**
 
 ## **Telecom Client – PhoneNow**
 
@@ -38,16 +38,16 @@ As part of a job simulation with PwC Switzerland in August 2024, hosted on Forag
 
 ## **HR Data KPIs**
 
-1. **Hiring:**
+1. ### **Hiring:**
     - The HR dashboard highlighted disparities in gender distribution among new hires. The focus was placed on improving gender balance in leadership and executive roles.
 
-2. **Promotion:**
+2. ### **Promotion:**
     - Promotions data, broken down by gender, was examined to detect any imbalance in career advancement opportunities. The root causes of these disparities were further investigated.
 
-3. **Performance:**
+3. ### **Performance:**
     - Performance metrics for male and female employees were compared to determine any inconsistencies in evaluation processes.
 
-4. **Turnover:**
+4. ### **Turnover:**
     - Analysis of gender-specific turnover rates offered a clearer picture of workforce retention challenges. Specific focus was given to women leaving at higher rates in executive roles.
 
 ## **Diversity and Inclusion Metrics**
